@@ -1,0 +1,12 @@
+metrics/
+data/
+models/
+venv/
+lightning_logs/
+__pycache__/
+
+/.env
+/Analysis.ipynb
+/test.ipynb
+/yfin.ipynb
+/fundamentals.ipynb
